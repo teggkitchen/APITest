@@ -39,7 +39,7 @@ public final static String URL_DEBUG = "http://192.168.43.42:8000";
 ![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/2.jpg)
 
 ### 商品
-![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/3.jpg)
+![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/3.jpg =240x426)
 ![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/4.jpg)
 ![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/5.jpg)
 ![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/6.jpg)
