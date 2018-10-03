@@ -45,8 +45,9 @@ public final static String URL_DEBUG = "http://192.168.43.42:8000";
 <img src="https://github.com/teggkitchen/APITest/blob/master/temp/4.jpg" alt="商品" width="240" height="426" />
 <img src="https://github.com/teggkitchen/APITest/blob/master/temp/5.jpg" alt="商品" width="240" height="426" />
 <img src="https://github.com/teggkitchen/APITest/blob/master/temp/6.jpg" alt="商品" width="240" height="426" />
+<img src="https://github.com/teggkitchen/APITest/blob/master/temp/7.jpg" alt="訂單" width="240" height="426" />
 
 ### 訂單
 <div style="border-top: 3px solid green; width: 100%;" />
-<img src="https://github.com/teggkitchen/APITest/blob/master/temp/7.jpg" alt="訂單" width="240" height="426" />
 <img src="https://github.com/teggkitchen/APITest/blob/master/temp/8.jpg" alt="訂單" width="240" height="426" />
+<img src="https://github.com/teggkitchen/APITest/blob/master/temp/9.jpg" alt="訂單" width="240" height="426" />
