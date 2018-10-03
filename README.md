@@ -34,15 +34,16 @@ public final static String URL_DEBUG = "http://192.168.43.42:8000";
 
 ## 運行實例
 
-docker創建
+### 會員
+![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/1.jpg)
+![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/2.jpg)
 
+### 商品
+![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/3.jpg)
+![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/4.jpg)
+![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/5.jpg)
+![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/6.jpg)
 
-資料庫控制
-
-
-運行時
-
-
-寫入時
-
-
+### 訂單
+![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/7.jpg)
+![alt tag](https://github.com/teggkitchen/APITest/blob/master/temp/8.jpg)
