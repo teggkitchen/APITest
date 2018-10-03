@@ -1,0 +1,3 @@
+include ':app'
+//, ':APIBase'
+//project(':APIBase').projectDir = new File("../Library/APIBase/app")

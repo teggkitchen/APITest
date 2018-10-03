@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="content_margin">10dp</dimen>
+    <dimen name="title_margin">10dp</dimen>
+    <dimen name="content_padding">12dp</dimen>
+    <dimen name="grid_item_offset">2dp</dimen>
+
+    <!--文字大小-->
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_22">22sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_26">26sp</dimen>
+    <dimen name="text_size_28">28sp</dimen>
+    <dimen name="text_size_30">30sp</dimen>
+
+    <!--圖片高度-->
+    <dimen name="image_height_120">120dp</dimen>
+    <dimen name="image_height_160">160dp</dimen>
+    <dimen name="image_height_180">180dp</dimen>
+    <dimen name="image_height_200">200dp</dimen>
+    <dimen name="image_height_260">260dp</dimen>
+    <dimen name="image_height_300">300dp</dimen>
+
+    <dimen name="menu_header_height">160dp</dimen>
+    <dimen name="page_title_height">60dp</dimen>
+    <dimen name="recp_step_image_height">200dp</dimen>
+
+    <dimen name="logo_width">260dp</dimen>
+    <dimen name="logo_height">80dp</dimen>
+
+</resources>

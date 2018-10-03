@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">APITest</string>
+
+    <string name="sign_up">註冊</string>
+    <string name="sign_in">登入</string>
+    <string name="menu_login_title">登入</string>
+    <string-array name="drawer_menu">
+        <item>會員</item>
+        <item>商品</item>
+        <item>增加商品</item>
+        <item>編輯商品</item>
+        <item>購買商品</item>
+        <item>訂單</item>
+        <item>查詢訂單</item>
+    </string-array>
+    <string-array name="menu_weight">
+        <item></item><!--登入-->
+        <item>title</item>
+        <item>subtitle</item>
+        <item>subtitle</item>
+        <item>subtitle</item>
+        <item>title</item>
+        <item>subtitle</item>
+        <item></item><!--登出-->
+    </string-array>
+</resources>

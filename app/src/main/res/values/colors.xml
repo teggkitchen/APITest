@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8e98f5</color>
+    <color name="colorPrimaryDark">#7874f2</color>
+    <color name="colorAccent">#f38181</color>
+        <!--<color name="colorPrimary">#86b746</color>-->
+        <!--<color name="colorPrimaryDark">#689F38</color>-->
+        <!--<color name="colorAccent">#558B2F</color>-->
+
+        <color name="ColorBdoDarkOrange">#d79626</color>
+        <color name="ColorBdoLightWhite">#ece6e1</color>
+        <color name="ColorBdoGreen">#97bb6f</color>
+        <color name="ColorBdoBrown">#8b562a</color>
+        <color name="ColorBdoLightGray">#c9caca</color>
+        <color name="ColorBdoDarkGray">#9b9b9b</color>
+        <color name="ColorBdoLightRed">#f7909c</color>
+
+        <color name="colorTransparent">#00000000</color>
+        <color name="colorWhite">#FFFFFF</color>
+        <color name="colorAlphaWhite">#50ffffff</color>
+        <color name="colorBlack">#000000</color>
+        <color name="colorBrown">#8B572A</color>
+        <color name="colorLightBrown">#EEDABB</color>
+        <color name="colorEarth">#F0BA4D</color>
+        <color name="colorWood">#BA7537</color>
+        <color name="colorDarkPurple">#735E5B</color>
+        <color name="colorGray">#B4B4B4</color>
+        <color name="colorAppleRed">#FF5555</color>
+        <color name="colorGreen">#97bb6f</color>
+        <color name="colorSkyBlue">#5899E5</color>
+        <color name="colorCoffee">#BB7A3F</color>
+        <color name="colorPink">#F7919D</color>
+        <color name="colorLightGray">#F1EDED</color>
+        <color name="colorSkin">#F5CF91</color>
+
+        <color name="colorHalfBlack">#e0303033</color>
+        <color name="colorHalfEarth">#f6f0ba4d</color>
+        <color name="colorHalfSkyBlue">#c05899E5</color>
+
+
+
+    <color name="customBlack1">#7D4A4A4A</color>
+    <color name="customBlack2">#664A4A4A</color>
+    <color name="customBlack3">#4A4A4A</color>
+    <color name="customBlack4">#804A4A4A</color>
+    <color name="customBlack5">#994A4A4A</color>
+    <color name="customTransparent1">#00000000</color>
+    <color name="customGray1">#D2D0D2</color>
+    <color name="customGray2">#D7D4D4</color>
+    <color name="customGray3">#9B9B9B</color>
+    <color name="customGray4">#979797</color>
+    <color name="customGray5">#F1EFEF</color>
+    <color name="customGray6">#F6F5F5</color>
+    <color name="customGray7">#F4F1F1</color>
+    <color name="customGray8">#D2D2D3</color>
+    <color name="customOrange1">#F5A623</color>
+    <color name="customBlue1">#4A90E2</color>
+    <color name="customBlue2">#0B52EC</color>
+    <color name="customPing1">#EE6E7E</color>
+    <color name="customPing2">#F98C8C</color>
+    <color name="customGreen1">#3EC5A7</color>
+    <color name="customGreen2">#25AE88</color>
+    <color name="customRed1">#F56476</color>
+    <color name="customWhite1">#50FFFFFF</color>
+    <color name="customBrown1">#AA7C54</color>
+
+    <color name="customRed">#F38181</color>
+    <color name="customBlue">#95E1D3</color>
+    <color name="customYallow">#FCE38A</color>
+    <color name="customYallow2">#eaffd0</color>
+    </resources>
